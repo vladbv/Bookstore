@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpXTIHnHODxuToifA40cPMv+UZwK3Ai/dpUjUVhWj32hUV4LbX8yuCqPbfzdt/3KDAZLKmlRrdfynkFj70FurQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladi\\Downloads\\Project-Mine\\Bookstore\\Bookstore.Dto\\Bookstore.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

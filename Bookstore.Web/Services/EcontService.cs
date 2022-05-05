@@ -29,8 +29,8 @@ namespace Bookstore.Web.Services
                 {
                     SenderClient = new ErClient()
                     {
-                        Name = "Иван Иванов",
-                        Phones = new List<string>() { "0888888888" }
+                        Name = "Ivan Petrov",
+                        Phones = new List<string>() { "0884244557" }
                     },
                     SenderAddress = new ErAddress()
                     {
@@ -40,16 +40,16 @@ namespace Bookstore.Web.Services
                             {
                                 Code3 = "BGR"
                             },
-                            Name = "Русе",
+                            Name = "Sofia",
                             PostCode = 7012
                         },
-                        Street = "Алея Младост",
+                        Street = "ul. Orehova gora",
                         Num = 7
                     },
                     ReceiverClient = new ErClient()
                     {
-                        Name = "Димитър Димитров",
-                        Phones = new List<string>() { "0876543210" }
+                        Name = "Petar Mihov",
+                        Phones = new List<string>() { "088352520" }
                     },
                     ReceiverAddress = new ErAddress()
                     {
@@ -59,16 +59,16 @@ namespace Bookstore.Web.Services
                             {
                                 Code3 = "BGR"
                             },
-                            Name = "Муткурова",
+                            Name = "Jolio Kurie",
                             PostCode = 7010
                         },
-                        Street = "Муткурова",
-                        Num = 84,
-                        Other = "бл. 5, вх. А, ет. 6"
+                        Street = "Jolie Kurie",
+                        Num = 115,
+                        Other = "et. 12, ap. 172"
                     },
                     PackCount = 1,
                     ShipmentType = "PACK",
-                    ShipmentDescription = "обувки",
+                    ShipmentDescription = "books",
                     Weight = 5
                 }
             };
